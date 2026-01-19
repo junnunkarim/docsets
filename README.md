@@ -1,8 +1,8 @@
 # docsets
 
-personal generated docsets for zeal.
+personal docsets for zeal.
 
-additional docsets generation information can be found in [Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions).
+additional docset generation information can be found in [Dash-User-Contributions](https://github.com/Kapeli/Dash-User-Contributions).
 
 ## info
 - nim
